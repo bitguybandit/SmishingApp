@@ -46,7 +46,7 @@ Requires **Python 3.10+**.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/&lt;your-username&gt;/smishing-detector.git
+git clone https://github.com/bitguybandit/SmishingApp.git
 cd smishing-detector
 
 # 2. (Recommended) Create a virtual environment
